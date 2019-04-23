@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteAnnotations" parallel="false">
+	<test name="FirstTest">
+		<classes>
+			<class name="testngannotations.UnderstandAnnotations1" />
+			<class name="testngannotations.UnderstandAnnotations2" />
+		</classes>
+		<test name="SecondTest">
+			<classes>
+				<class name="testngannotations.UnderstandAnnotations3" />
+				<class name="testngannotations.UnderstandAnnotations4" />
+			</classes>
+		</test>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
