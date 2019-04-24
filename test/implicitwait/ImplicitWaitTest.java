@@ -38,7 +38,7 @@ public class ImplicitWaitTest {
   @AfterMethod
   public void afterMethod() {
 	  
-	  driver.quit();
+	  
   }
 
 }
